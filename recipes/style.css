@@ -1,0 +1,61 @@
+h1 {
+    text-align: center;
+    color: rgba(12, 11, 11, 0.644);
+}
+
+img {
+    height: auto;
+    width: auto;
+    position: relative;
+    left: 1in;
+}
+
+h2 {
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.description {
+    font-size: 24px;
+    font-family: "Open Sans", Montserrat, Helvetica;
+    font-weight: lighter;
+    font-style: normal;
+}
+
+#about {
+    font-weight: bold;
+    color: rgb(180, 182, 69);
+}
+
+#three span {
+    background-color: darkred;
+}
+
+ol {
+    list-style-type: decimal;
+    padding: 18px;
+    border: 9px solid grey;
+    box-sizing: border-box;
+    float: left;
+    margin: 3px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: 900px;
+    background-color: rgb(223, 219, 219);
+    
+    
+}
+
+li {
+    line-height: 28px;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
